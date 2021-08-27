@@ -37,6 +37,12 @@ body {
   background-size: 100%;
 }
 
+.with-paper  {
+  background-image: url(./paper-mid-2.jpg);
+  background-size: 100%;
+  background-color: black;
+}
+
 .cover-container {
   max-width: 64em;
 }
@@ -70,6 +76,11 @@ body {
 
 .shad {
   text-shadow: 4px 4px 4px black;
+}
+
+hr {
+  width: 75% !important;
+  margin: 0px auto;
 }
 
 .lrmm-label {
