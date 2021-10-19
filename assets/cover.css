@@ -87,6 +87,15 @@ hr {
   width: 100%;
 }
 
+a {
+  color: #b00000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff3322;
+}
+
 @media all and (max-width: 768px) {
   .lrmm-label {
     width: 40% !important;
